@@ -48,7 +48,7 @@
 
 ### 🎧 Creative Soundtrack  
 🎼 Mood: calm lofi beats, anime OSTs, poetry playlists  
-🖤 Mindset: *Stoic. Deep thinker. Manga-mode ON.*
+🖤 Mindset: *Stoic. Deep thinker.*
 
 ---
 

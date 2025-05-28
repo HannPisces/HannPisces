@@ -5,7 +5,11 @@
 > *“Learning to code. Living to create.”*  
 > *🎨 Artist first. Developer in progress. Storyteller in pixels.*
 
-<img src="https://media.tenor.com/6zLzN1g2G9cAAAAC/vagabondrain-vagabond.gif" width="300px" alt="Vagabond - Musashi in the rain" />
+<div align="center">
+
+<img src="https://i.imgur.com/Eh3i8DR.gif" width="300px" alt="Vagabond - Musashi" />
+
+</div>
 
 </div>
 

@@ -6,8 +6,7 @@
 > *🎨 Artist first. Developer in progress. Storyteller in pixels.*
 
 
-<img src="https://i.imgur.com/QKuMuLg.gif" width="300px" alt="Calm anime male" />
-
+<img src="https://i.imgur.com/jx17oHT.gif" width="240px" alt="anime-code" />
 </div>
 
 ---

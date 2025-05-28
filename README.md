@@ -6,7 +6,7 @@
 > *🎨 Artist first. Developer in progress. Storyteller in pixels.*
 
 
-<img src="https://i.imgur.com/jx17oHT.gif" width="240px" alt="anime-code" />
+<img src="https://imgur.com/RAuG96V.gif" width="240px" alt="anime-code" />
 </div>
 
 ---

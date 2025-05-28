@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗯️ Crizneil Bucio Sanchez 
+# 🗯️ Crizneil
 
 > *“Learning to code. Living to create.”*  
 > *🎨 Artist first. Developer in progress. Storyteller in pixels.*

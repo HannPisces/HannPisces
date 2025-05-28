@@ -1,39 +1,48 @@
 <div align="center">
 
-# 🌊 Crizneil
+# 🗯️ Crizneil Bucio Sanchez 
 
-> *"Coding life in rhythms, painting dreams in pixels."*  
-> *Pisces soul. Artistic mind. Developer in bloom.*
+> *“Learning to code. Living to create.”*  
+> *🎨 Artist first. Developer in progress. Storyteller in pixels.*
 
-<img src="https://i.imgur.com/jx17oHT.gif" width="240px" alt="anime-code" />
+<img src="https://i.imgur.com/7fUXPnd.png" width="240px" alt="Vagabond manga black and white" />
 
 </div>
 
 ---
 
-### 🧠 About Me  
-🎨 Passionate **BSIT student** & digital artist  
-💻 Exploring **front-end development**, **UI/UX**, and creative tech  
-🌙 Pisces energy – intuitive, expressive, and visual  
-📚 Learning: **C#**, **JavaScript**, **Figma**, and **Mobile App Dev**
+### 📖 Who Am I?  
+🎨 A **digital artist** and **BSIT student** with a heart for storytelling  
+🧠 A **stoic leader** — calm, focused, and driven by vision  
+♟️ **Creative and strategic**, always thinking outside the box  
+📚 Passionate about **philosophy** and **poetry** — I believe in ideas that move people  
+🖋️ Led a **book project** and won awards for:  
+ 🏆 *Best Book Title*  
+ 🏆 *Best Presenter*  
+ 🏆 *Best Book Illustrator*
 
 ---
 
-### 🛠️ Tech & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+### 🌱 This is My Training Arc  
+- 🕹️ Designing **sprites**, **game assets**, and **UI/UX** with purpose  
+- 💡 Bringing emotion and clarity into design  
+- 💻 Still learning to code with **C#**, **JavaScript**, and app development  
+- 📖 Growing through **every bug**, **every sketch**, **every idea**
 
 ---
 
-### ✨ Projects & Dreams  
-- 📱 Creating mobile & web apps with personality  
-- 🖌️ UI/UX with emotional flow and purpose  
-- 📖 Learning every day to shape a unique digital identity  
+### 🛠️ Tools I Use  
+> *“Every brushstroke. Every commit. Part of the grind.”*
+
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-111111?style=flat&logo=c-sharp&logoColor=239120)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=F05032)
+![Android Studio](https://img.shields.io/badge/Android_Studio-111111?style=flat&logo=android-studio&logoColor=3DDC84)
+![GameMaker](https://img.shields.io/badge/GameMaker-111111?style=flat&logo=yoYo%20games&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-111111?style=flat&logo=canva&logoColor=00C4CC)
 
 ---
 
@@ -41,23 +50,26 @@
 
 ![Crizneil's GitHub stats](https://github-readme-stats.vercel.app/api?username=crizneil&show_icons=true&theme=tokyonight&hide_title=true)
 
----
-
-### 🎧 Vibes While Creating  
-> *"Calm music. Late nights. Beautiful code."*  
-> 🎼 Lofi, anime soundtracks, and poetry playlists
+> *“One repo at a time. One lesson at a time.”*
 
 ---
 
-### 🌐 Let's Connect  
-📸 Instagram: [@hannpisces](https://instagram.com/hannpisces)  
-🌱 LinkedIn: *(coming soon)*  
-🎨 Portfolio: *(coming soon)*
+### 🎧 Creative Soundtrack  
+🎼 Mood: calm lofi beats, anime OSTs, poetry playlists  
+🖤 Mindset: *Stoic. Deep thinker. Manga-mode ON.*
+
+---
+
+### 🤝 Connect With Me  
+📘 Facebook: [fb.com/share/16ZZ7svWmG](https://www.facebook.com/share/16ZZ7svWmG/)  
+💼 LinkedIn: [Crisneil Bucio](https://www.linkedin.com/in/crisneil-bucio-325887264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+🌐 Portfolio: *(coming soon)*
 
 ---
 
 <div align="center">
 
-> *“Minimalist code. Artistic flow. Infinite learning.”* 🌙
+> *“Minimal words. Maximum focus. Quiet power.”*  
+> *— Crizneil, Stoic Artist-Dev in Training 🖤*
 
 </div>

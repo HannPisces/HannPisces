@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🃏 Crizneil 
+# Crizneil 
 
 > *“Learning to code. Living to create.”*  
 > *🎨 Artist. Developer. Storyteller in pixels.*

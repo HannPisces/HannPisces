@@ -7,10 +7,9 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/Eh3i8DR.gif" width="300px" alt="Vagabond - Musashi" />
+<img src="https://media.tenor.com/6zLzN1g2G9cAAAAC/vagabondrain-vagabond.gif" width="300px" alt="Vagabond - Musashi in the rain" />
 
 </div>
-
 </div>
 
 ---

@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🗯️ Crizneil
+# 🃏 Crizneil 
 
 > *“Learning to code. Living to create.”*  
-> *🎨 Artist first. Developer in progress. Storyteller in pixels.*
+> *🎨 Artist. Developer. Storyteller in pixels.*
 
 
 <img src="https://imgur.com/RAuG96V.gif" width="240px" alt="anime-code" />

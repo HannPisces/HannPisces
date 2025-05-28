@@ -5,7 +5,7 @@
 > *“Learning to code. Living to create.”*  
 > *🎨 Artist first. Developer in progress. Storyteller in pixels.*
 
-<img src="https://i.imgur.com/7fUXPnd.png" width="240px" alt="Vagabond manga black and white" />
+<img src="https://media.tenor.com/6zLzN1g2G9cAAAAC/vagabondrain-vagabond.gif" width="300px" alt="Vagabond - Musashi in the rain" />
 
 </div>
 
@@ -43,14 +43,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-111111?style=flat&logo=android-studio&logoColor=3DDC84)
 ![GameMaker](https://img.shields.io/badge/GameMaker-111111?style=flat&logo=yoYo%20games&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-111111?style=flat&logo=canva&logoColor=00C4CC)
-
----
-
-### 📊 GitHub Stats
-
-![Crizneil's GitHub stats](https://github-readme-stats.vercel.app/api?username=crizneil&show_icons=true&theme=tokyonight&hide_title=true)
-
-> *“One repo at a time. One lesson at a time.”*
 
 ---
 

@@ -3,7 +3,7 @@
 # Crizneil 
 
 > *“Learning to code. Living to create.”*  
-> *🎨 Artist. Developer. Storyteller in pixels.*
+> * Artist-Dev*
 
 
 <img src="https://imgur.com/RAuG96V.gif" width="240px" alt="anime-code" />
@@ -27,13 +27,11 @@
 - 🕹️ Designing **sprites**, **game assets**, and **UI/UX** with purpose  
 - 💡 Bringing emotion and clarity into design  
 - 💻 Still learning to code with **C#**, **JavaScript**, and app development  
-- 📖 Growing through **every bug**, **every sketch**, **every idea**
 
 ---
 
 ### 🛠️ Tools I Use  
-> *“Every brushstroke. Every commit. Part of the grind.”*
-
+> 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -47,7 +45,7 @@
 ---
 
 ### 🎧 Creative Soundtrack  
-🎼 Mood: calm lofi beats, anime OSTs, poetry playlists  
+🎼 Mood: calm lofi beats, Classical music, poetry playlists  
 🖤 Mindset: *Stoic. Deep thinker.*
 
 ---
@@ -55,13 +53,12 @@
 ### 🤝 Connect With Me  
 📘 Facebook: [fb.com/share/16ZZ7svWmG](https://www.facebook.com/share/16ZZ7svWmG/)  
 💼 LinkedIn: [Crisneil Bucio](https://www.linkedin.com/in/crisneil-bucio-325887264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-🌐 Portfolio: *(coming soon)*
+🌐 Portfolio: *(still working)*
 
 ---
 
 <div align="center">
 
 > *“Minimal words. Maximum focus. Quiet power.”*  
-> *— Crizneil, Stoic Artist-Dev in Training 🖤*
 
 </div>

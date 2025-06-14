@@ -51,8 +51,7 @@
 ---
 
 ### 🤝 Connect With Me  
-📘 Facebook: [fb.com/share/16ZZ7svWmG](https://www.facebook.com/share/16ZZ7svWmG/)  
-💼 LinkedIn: [Crisneil Bucio](https://www.linkedin.com/in/crisneil-bucio-325887264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📘 Facebook: [fb.com/share/16ZZ7svWmG](https://www.facebook.com/share/16ZZ7svWmG/)   
 🌐 Portfolio: *(still working)*
 
 ---

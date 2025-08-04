@@ -12,9 +12,9 @@
 ---
 
 ### 📖 Who Am I?  
-🧠 A **stoic leader**  
-♟️ **Creative and strategic**
-🖋️ Lead a **book project** and won awards for:  
+🧠 A **stoic leader** ♟️ **Creative and strategic** 
+
+Lead a **book project** and won awards for:  
  🏆 *Best Book Title*  
  🏆 *Best Presenter*  
  🏆 *Best Book Illustrator*

@@ -13,7 +13,7 @@
 
 ### 📖 Who Am I?  
 🧠 A **stoic leader**  
-♟️ **Creative and strategic**, 
+♟️ **Creative and strategic**
 🖋️ Lead a **book project** and won awards for:  
  🏆 *Best Book Title*  
  🏆 *Best Presenter*  

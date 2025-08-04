@@ -2,7 +2,7 @@
 
 # Crizneil 
 
-> *“Learning to code. Living to create.”*  
+> *“Látom”*  
 > Artist-Dev 
 
 
@@ -12,21 +12,14 @@
 ---
 
 ### 📖 Who Am I?  
-🎨 A **digital artist** and **BSIT student** with a heart for storytelling  
-🧠 A **stoic leader** — calm, focused, and driven by vision  
-♟️ **Creative and strategic**, always thinking outside the box  
-📚 Passionate about **philosophy** and **poetry** — I believe in ideas that move people  
-🖋️ Led a **book project** and won awards for:  
+🎨 A **digital artist** and **BSIT student** 
+🧠 A **stoic leader**  
+♟️ **Creative and strategic**, 
+📚 Passionate about **philosophy** and **poetry** 
+🖋️ Lead a **book project** and won awards for:  
  🏆 *Best Book Title*  
  🏆 *Best Presenter*  
  🏆 *Best Book Illustrator*
-
----
-
-### 🌱 This is My Training Arc  
-- 🕹️ Designing **sprites**, **game assets**, and **UI/UX** with purpose  
-- 💡 Bringing emotion and clarity into design  
-- 💻 Still learning to code with **C#**, **JavaScript**, and app development  
 
 ---
 
@@ -41,12 +34,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-111111?style=flat&logo=android-studio&logoColor=3DDC84)
 ![GameMaker](https://img.shields.io/badge/GameMaker-111111?style=flat&logo=yoYo%20games&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-111111?style=flat&logo=canva&logoColor=00C4CC)
-
----
-
-### 🎧 Creative Soundtrack  
-🎼 Mood: calm lofi beats, Classical music, poetry playlists  
-🖤 Mindset: *Stoic. Deep thinker.*
 
 ---
 

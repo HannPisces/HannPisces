@@ -12,7 +12,6 @@
 ---
 
 ### 📖 Who Am I?  
-🎨 A **digital artist** and **BSIT student** 
 🧠 A **stoic leader**  
 ♟️ **Creative and strategic**, 
 📚 Passionate about **philosophy** and **poetry** 

@@ -5,7 +5,6 @@
 > *“Látom”*  
 > Artist-Dev 
 
-
 <img src="https://imgur.com/RAuG96V.gif" width="240px" alt="anime-code" />
 </div>
 
@@ -37,7 +36,8 @@ Lead a **book project** and won awards for:
 
 ### 🤝 Connect With Me  
 📘 Facebook: [fb.com/share/16ZZ7svWmG](https://www.facebook.com/share/16ZZ7svWmG/)   
-🌐 Portfolio: *(still working)*
+🌐 Portfolio: *(still working)*  
+💻 Capstone Project: [Web-Based Pet Owner Computerized Vaccination Registration & Monitoring System](https://ph.pawnec.com/)  
 
 ---
 

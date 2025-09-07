@@ -1,9 +1,9 @@
 <div align="center">
 
-# <span style="font-family: 'Courier New', Courier, monospace; font-weight: 900; font-size: 3.5em; background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent; animation: shine 3s infinite;">Crizneil</span>
+# Crizneil
 
-> <em style="font-size:1.2em;">“Látom”</em>  
-> <strong>Artist & Developer</strong>
+> *“Látom”*  
+> _Artist & Developer_
 
 <img src="https://imgur.com/RAuG96V.gif" width="240" alt="anime-code" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.3);" />
 
@@ -11,31 +11,13 @@
 
 ---
 
-<style>
-@keyframes shine {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-</style>
+## 📚 About Me
 
-<div align="center">
-
-### 📚 About Me
-
-🧠 <strong>Stoic Leader</strong> & ♟️ <strong>Creative Strategist</strong>  
+🧠 **Stoic Leader** & ♟️ **Creative Strategist**  
 I blend discipline with creativity to lead projects that inspire and innovate.
 
-🏅 <strong>Awards & Recognition</strong>  
-<span style="font-size:1.3em;">🏆 Best Book Title &nbsp;&nbsp;🎤 Best Presenter &nbsp;&nbsp;🎨 Best Book Illustrator</span>
-
-</div>
+🏅 **Awards & Recognition**  
+🏆 Best Book Title &nbsp;&nbsp; 🎤 Best Presenter &nbsp;&nbsp; 🎨 Best Book Illustrator
 
 ---
 
@@ -57,37 +39,43 @@ I blend discipline with creativity to lead projects that inspire and innovate.
 
 ## 💼 Featured Projects
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="280" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.2); padding: 15px; margin: 10px;">
+    <td align="center" width="280" style="padding: 15px; margin: 10px; border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.2);">
       <h3>🐾 Pet Owner Vaccination System</h3>
       <p>Web-based computerized vaccination registration & monitoring system for pets.</p>
-      <a href="https://ph.pawnec.com/" target="_blank" style="text-decoration:none; font-weight:bold; color:#ee0979; background: linear-gradient(90deg, #ff6a00, #ee0979); padding: 8px 16px; border-radius: 25px; transition: background 0.3s ease;">Visit Site →</a>
+      <a href="https://ph.pawnec.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20Site-EE0979?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site" />
+      </a>
     </td>
-    <td align="center" width="280" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.2); padding: 15px; margin: 10px;">
+    <td align="center" width="280" style="padding: 15px; margin: 10px; border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.2);">
       <h3>🚧 Coming Soon</h3>
       <p>Stay tuned for more exciting projects!</p>
-      <span style="color:gray;">Under Construction</span>
+      <img src="https://img.shields.io/badge/Under_Construction-AAAAAA?style=for-the-badge" alt="Under Construction" />
     </td>
   </tr>
 </table>
 
-</div>
+---
+
+## 🎖️ GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Crizneil&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center" style="font-size:1.2em;">
-  <a href="https://www.facebook.com/share/16ZZ7svWmG/" target="_blank" style="margin: 0 15px; text-decoration:none;">
+  <a href="https://www.facebook.com/share/16ZZ7svWmG/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="#" style="margin: 0 15px; text-decoration:none;">
+  <a href="#" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://ph.pawnec.com/" target="_blank" style="margin: 0 15px; text-decoration:none;">
+  <a href="https://ph.pawnec.com/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Capstone_Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="Capstone Project" />
   </a>
 </p>
@@ -97,18 +85,9 @@ I blend discipline with creativity to lead projects that inspire and innovate.
 ## 🌗 Dark Mode Toggle
 
 <p align="center">
-  <a href="https://github.com/Crizneil/Crizneil" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Dark%20Mode-Enabled-000000?style=for-the-badge&logo=github&logoColor=white" alt="Dark Mode Toggle" 
-    onmouseover="this.style.filter='brightness(1.2)';" onmouseout="this.style.filter='brightness(1)';" />
+  <a href="https://github.com/Crizneil/Crizneil" target="_blank">
+    <img src="https://img.shields.io/badge/Dark%20Mode-Enabled-000000?style=for-the-badge&logo=github&logoColor=white" alt="Dark Mode Toggle" />
   </a>
-</p>
-
----
-
-## 👁️ Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Crizneil/count.svg" alt="Visitor Count" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.3);" />
 </p>
 
 ---

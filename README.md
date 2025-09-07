@@ -16,8 +16,11 @@
 🧠 **Stoic Leader** & ♟️ **Creative Strategist**  
 I blend discipline with creativity to lead projects that inspire and innovate.
 
-🏅 **Awards & Recognition**  
-🏆 Best Book Title &nbsp;&nbsp; 🎤 Best Presenter &nbsp;&nbsp; 🎨 Best Book Illustrator
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -36,6 +39,8 @@ I blend discipline with creativity to lead projects that inspire and innovate.
 </p>
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💼 Featured Projects
 
@@ -55,14 +60,6 @@ I blend discipline with creativity to lead projects that inspire and innovate.
     </td>
   </tr>
 </table>
-
----
-
-## 🎖️ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Crizneil&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -91,9 +88,8 @@ I blend discipline with creativity to lead projects that inspire and innovate.
 </p>
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center" style="font-style: italic; font-weight: 600; font-size: 1.1em; color: #ee0979; margin-top: 30px;">
-
-> “Minimal words. Maximum focus. Quiet power.”
 
 </div>

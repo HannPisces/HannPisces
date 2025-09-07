@@ -11,11 +11,6 @@
 
 ---
 
-## 📚 About Me
-
-🧠 **Stoic Leader** & ♟️ **Creative Strategist**  
-I blend discipline with creativity to lead projects that inspire and innovate.
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -42,7 +37,7 @@ I blend discipline with creativity to lead projects that inspire and innovate.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 💼 Featured Projects
+## 💼 Latest Projects
 
 <table align="center">
   <tr>

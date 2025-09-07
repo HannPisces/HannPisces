@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">Crizneil</span> ✨
+# <span style="font-family: 'Courier New', Courier, monospace; font-weight: 900; font-size: 3.5em; background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent; animation: shine 3s infinite;">Crizneil</span>
 
 > <em style="font-size:1.2em;">“Látom”</em>  
 > <strong>Artist & Developer</strong>
@@ -10,6 +10,20 @@
 </div>
 
 ---
+
+<style>
+@keyframes shine {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+</style>
 
 <div align="center">
 
@@ -50,7 +64,7 @@ I blend discipline with creativity to lead projects that inspire and innovate.
     <td align="center" width="280" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.2); padding: 15px; margin: 10px;">
       <h3>🐾 Pet Owner Vaccination System</h3>
       <p>Web-based computerized vaccination registration & monitoring system for pets.</p>
-      <a href="https://ph.pawnec.com/" target="_blank" style="text-decoration:none; font-weight:bold; color:#ee0979;">Visit Site →</a>
+      <a href="https://ph.pawnec.com/" target="_blank" style="text-decoration:none; font-weight:bold; color:#ee0979; background: linear-gradient(90deg, #ff6a00, #ee0979); padding: 8px 16px; border-radius: 25px; transition: background 0.3s ease;">Visit Site →</a>
     </td>
     <td align="center" width="280" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.2); padding: 15px; margin: 10px;">
       <h3>🚧 Coming Soon</h3>
@@ -76,18 +90,6 @@ I blend discipline with creativity to lead projects that inspire and innovate.
   <a href="https://ph.pawnec.com/" target="_blank" style="margin: 0 15px; text-decoration:none;">
     <img src="https://img.shields.io/badge/Capstone_Project-111111?style=for-the-badge&logo=github&logoColor=white" alt="Capstone Project" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crizneil&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.3);" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crizneil&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.3);" />
 </p>
 
 ---

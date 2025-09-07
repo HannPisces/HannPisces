@@ -1,15 +1,11 @@
-<div align="center">
 
-# Crizneil
+![banner](https://github.com/user-attachments/assets/5acb5424-8a32-4ee5-91c5-31e5df7424f6)
 
-
-> _Artist & Developer_
-> *“Látom”* 
-
-<img src="https://imgur.com/RAuG96V.gif" width="240" alt="anime-code" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.3);" />
-
-</div>
-
+## Hi There! 👨‍💻
+I'm Criz, a BSIT student  
+- I am currently a 4th year college student and also working in IT Support at Sterling Global Call Center.
+- A calm, logical, and creative thinker with leadership skills.
+  
 ---
 
 <!-- Snake Game Repo View -->

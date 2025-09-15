@@ -1,9 +1,5 @@
 <div align="center">
 
-> *“Látom”* 
-
-<img src="https://imgur.com/RAuG96V.gif" width="240" alt="anime-code" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(238,9,121,0.3);" />
-
 </div>
 
 ## Hi There! 👨‍💻
